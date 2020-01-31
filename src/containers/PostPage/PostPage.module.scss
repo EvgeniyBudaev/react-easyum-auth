@@ -1,0 +1,21 @@
+.PostPage {
+  margin: 5px;
+  border: 1px solid darkgray;
+  border-radius: 5px;
+  padding: 10px;
+  width: 100%;
+
+ 
+  .title {
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  .userId {
+    font-size: 0.8rem;
+    font-style: italic;
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+}

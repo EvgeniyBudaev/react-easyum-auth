@@ -1,8 +1,22 @@
+![Image alt](https://github.com/EvgeniyBudaev/react-easyum-router/raw/master/public/images/mainPage.jpg)
+
+![Image alt](https://github.com/EvgeniyBudaev/react-easyum-router/raw/master/public/images/adminLogin.jpg)
+
+![Image alt](https://github.com/EvgeniyBudaev/react-easyum-router/raw/master/public/images/loginPage.jpg)
+
+![Image alt](https://github.com/EvgeniyBudaev/react-easyum-router/raw/master/public/images/signUpPage.jpg)
+
+![Image alt](https://github.com/EvgeniyBudaev/react-easyum-router/raw/master/public/images/addProductPage.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+### `npm install react-router-dom`
 
 ### `npm start`
 
